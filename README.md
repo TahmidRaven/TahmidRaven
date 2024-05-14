@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tahmid. You can call me Raven.</h1>
-<h3 align="center">A passionate fullstack developer; currently focusing on ML and GameDev.</h3>
+<h3 align="center">A passionate fullstack developer; Have worked on Flutter+Firebase for AppDev recently & currently focusing on ML and GameDev.</h3>
 
 - 🌱 I’m currently learning **Django, React, ML, AI**
 
