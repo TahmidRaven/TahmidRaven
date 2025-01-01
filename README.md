@@ -17,15 +17,19 @@
 
 </p>
  
-
 ## 🕹️ Featured Project: [RougeKnight](https://ravendeath.itch.io/rougeknight)
 <p align="center">
-  <a href="https://ravendeath.itch.io/rougeknight" target="_blank">
-    <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="RougeKnight Preview" width="70%" />
+  <a href="https://www.youtube.com/watch?v=9yOeBbe6nXI" target="_blank">
+    <img src="https://img.youtube.com/vi/9yOeBbe6nXI/maxresdefault.jpg" alt="RougeKnight Gameplay" width="70%" />
   </a>
 </p>
 
----
+<p align="center">
+  <a href="https://ravendeath.itch.io/rougeknight" target="_blank">
+    <img src="https://img.shields.io/badge/Download-Game-FF6EC7?style=for-the-badge&logo=itch.io" alt="Download Button" />
+  </a>
+</p>
+
 <h2 align="center">🎮 Download My Game 🎮</h2>
 
 <p align="center">
