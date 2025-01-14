@@ -54,36 +54,21 @@
 ## 🔥 GitHub Stats 
 
 ### 🔥 Stats & Streaks
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TahmidRaven&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TahmidRaven&theme=radical" alt="GitHub Streak" />
-</p>
-
+ 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahmidRaven&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TahmidRaven&theme=radical" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TahmidRaven&theme=radical" width="48%" alt="GitHub Streak" />
+  <!-- Left: GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=TahmidRaven&theme=radical" style="float: left; margin-right: 10px;" width="48%" alt="Raven's GitHub Stats" />
+
+  <!-- Right: GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TahmidRaven&theme=radical" style="float: left; margin-left: 10px;" width="48%" alt="GitHub Streak" />
 </div>
 
 
-![Repos](https://img.shields.io/github/repo-count/TahmidRaven?color=blue&label=Repos)
-![Followers](https://img.shields.io/github/followers/TahmidRaven?label=Followers&color=yellow)
-
-
-### 🌀 Coding in Progress  
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="60%" />
-</p>
-
----
-
-## 📈 Real-Time Visitors  
-<p align="center">
-  <img src="https://profile-counter.glitch.me/TahmidRaven/count.svg" alt="Visitor Count" />
-</p>
+![Tahmid's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=TahmidRaven&theme=radical)
 
  
 
