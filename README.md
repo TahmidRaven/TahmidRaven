@@ -54,10 +54,6 @@
 ## 🔥 GitHub Stats 
 
 ### 🔥 Stats & Streaks
- 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahmidRaven&layout=compact&theme=radical" alt="Top Languages" />
-</div>
 
 <div align="center">
   <!-- Left: GitHub Stats -->
@@ -66,13 +62,13 @@
   <!-- Right: GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TahmidRaven&theme=radical" style="float: left; margin-left: 10px;" width="48%" alt="GitHub Streak" />
 </div>
-
-
-![Tahmid's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=TahmidRaven&theme=radical)
-
  
-
 ## 🛠️ Languages & Tools  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahmidRaven&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
 <p align="center">
     <!-- Add C++ -->
   <a href="https://www.w3schools.com/cpp/" target="_blank">
@@ -88,18 +84,6 @@
 
 ---
 
-
-<!---
-
-## 🕹️ Play a Fun Game!
-<p align="center">
-  Click the badge below to play **Hangman** directly in your browser:  
-  <a href="https://yourhangmanlink.com">
-    <img src="https://img.shields.io/badge/Play%20Hangman%20Now-FF6EC7?style=for-the-badge&logo=gamepad" alt="Play Hangman" />
-  </a>
-</p>
-
---->
 
 ## 🚀 Contributions  
 <p align="center">
