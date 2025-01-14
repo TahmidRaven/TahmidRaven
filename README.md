@@ -69,8 +69,10 @@
 </div>
 
 
+ ![Repos](https://img.shields.io/badge/Repos-15-blue)
+![Contributions](https://img.shields.io/badge/Contributions-1200-green)
+![Followers](https://img.shields.io/badge/Followers-50-yellow)
 
-<!--
 
 ### 🌀 Coding in Progress  
 <p align="center">
@@ -84,7 +86,7 @@
   <img src="https://profile-counter.glitch.me/TahmidRaven/count.svg" alt="Visitor Count" />
 </p>
 
--->
+ 
 
 ## 🛠️ Languages & Tools  
 <p align="center">
