@@ -69,9 +69,8 @@
 </div>
 
 
- ![Repos](https://img.shields.io/badge/Repos-15-blue)
-![Contributions](https://img.shields.io/badge/Contributions-1200-green)
-![Followers](https://img.shields.io/badge/Followers-50-yellow)
+![Repos](https://img.shields.io/github/repo-count/TahmidRaven?color=blue&label=Repos)
+![Followers](https://img.shields.io/github/followers/TahmidRaven?label=Followers&color=yellow)
 
 
 ### 🌀 Coding in Progress  
