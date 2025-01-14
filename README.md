@@ -59,6 +59,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TahmidRaven&theme=radical" alt="GitHub Streak" />
 </p>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahmidRaven&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+
 <!--
 
 ### 🌀 Coding in Progress  
