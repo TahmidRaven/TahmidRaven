@@ -51,6 +51,30 @@
   
 </p>
 
+## 🤝 Collaborations  
+
+Here are some cool projects I’ve contributed to with friends and teammates:  
+
+### 🦯 Sound-based Blind Stick  
+A smart blind stick project using Arduino and sound sensors.  
+- 🔗 [Main Repo (YeasinFiyaz)](https://github.com/YeasinFiyaz/Sound-based-Blind-Stick) – 1 commit  
+- 🔗 [Arduino Code Repo (arnob56)](https://github.com/arnob56/blind_stick-Arduino-Code) – 5 commits  
+
+---
+
+### 📚 Learning Management System (MERN)  
+Collaborated on a MERN stack LMS project.  
+- 🔗 [470_lms_project (NafisHere)](https://github.com/NafisHere/470_lms_project.git)  
+
+---
+
+### 🍴 Restaurant Management System (Assembly - EMU8086)  
+Helped with inventory management part of this project.  
+- 🔗 [Restaurant-Management-System-in-emu8086 (Forked)](https://github.com/TahmidRaven/Restaurant-Management-System-in-emu8086)  
+
+---
+
+
 ## 🔥 GitHub Stats 
 
 ### 🔥 Stats & Streaks
