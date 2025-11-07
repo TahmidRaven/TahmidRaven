@@ -107,7 +107,9 @@ Some projects I’ve contributed to with friends and teammates:
 - 🍴 **Restaurant Management System (EMU8086)**  
   [Forked Repo](https://github.com/TahmidRaven/Restaurant-Management-System-in-emu8086)  
 
----
+- 🏫 **IsThisBRACU_LAB_Available**  
+  [Live Site](https://ravenxdeath.github.io/Is_This_BracU_LAB_available/) • [GitHub Repo](https://github.com/TahmidRaven/Is_This_BracU_LAB_available)
+
 
 ## 📫 Connect with Me  
 - **Email:** [tahmidendless@gmail.com](mailto:tahmidendless@gmail.com)  
