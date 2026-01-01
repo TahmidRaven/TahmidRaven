@@ -1,16 +1,18 @@
 <h1 align="center">Hi 👋, I'm Tahmid (aka Raven)</h1>
-<h3 align="center">Full-Stack Developer, Game Creator, and ML-DL Enthusiast</h3>
+<h3 align="center">🎮 Game Developer | Unity • Godot • Cocos Creator</h3>
 
 <!-- <p align="center">  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coder Gif" width="60%" /> </p> -->
-
 ---
 
-## ✨ About Me  
-- 🛠 **Building:** Apps with Flutter+Firebase  
-- 🎮 **Creating:** Games on [Itch.io](https://ravendeath.itch.io/)  
-- 💡 **Exploring:** Django, React, and AI  
-- 🌟 **Goals:** To innovate in tech, one project at a time!  
+## 🧠 About Me
+- 🎮 **Professionally building games** using Unity, Godot, and Cocos Creator  
+- 🛠 **Gameplay Systems:** Physics, UI, state machines, animations, audio  
+- 🚀 **Published Games:**  
+  👉 https://ravendeath.itch.io  
+- 🧩 **Also experienced in:** Android App Dev, Full-Stack Development & ML/DL  
+- 🌱 **Currently exploring:** AI in games, procedural systems, performance optimization  
 
+---
 ## 🌟 Call Me Raven  
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&width=435&lines=Fullstack+%7C+Game+Dev;Always+Learning+Something" alt="Typing SVG" />
