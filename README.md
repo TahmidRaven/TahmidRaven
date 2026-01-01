@@ -10,7 +10,8 @@
 - 🚀 **Published Games:**  
   👉 https://ravendeath.itch.io  
 - 🧩 **Also experienced in:** Android App Dev, Full-Stack Development & ML/DL  
-- 🌱 **Currently exploring:** AI in games, procedural systems, performance optimization  
+- 🌱 **Currently exploring:** AI in games, procedural systems, performance optimization
+- 🌟 **Goals:** To innovate in tech, one project at a time!
 
 ---
 ## 🌟 Call Me Raven  
