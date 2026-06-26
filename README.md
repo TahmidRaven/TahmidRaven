@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tahmid (aka Raven)</h1>
-<h3 align="center">🎮 Game Developer | Unity • Godot • Cocos Creator</h3>
+<h3 align="center">🎮 Game Developer | Unity • Godot • Cocos Creator •Pixi</h3>
 
 ---
 
-## 🧠 About Me
+## 🧠 About Me - [Tahmid'sWebsite](https://tahmidraven.com/)
 - 🎮 **Professionally building games** using Unity, Godot, and Cocos Creator  
 - 🛠 **Gameplay Systems:** Physics, UI, state machines, animations, audio  
 - 🚀 **Published Games:** [ravendeath.itch.io](https://ravendeath.itch.io)  
